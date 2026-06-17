@@ -6,6 +6,11 @@
 🎬 **Demo Video:** https://youtu.be/js8F-s6RKjw  
 💬 **Discord (keys + support):** https://dsc.gg/143x
 
+<img width="349" height="582" alt="image" src="https://github.com/user-attachments/assets/4a160a18-e405-44d1-9ec8-f388d203ae3d" />
+<img width="348" height="578" alt="image" src="https://github.com/user-attachments/assets/a5fc7378-3b07-4814-ab95-274130858a75" />
+<img width="349" height="577" alt="image" src="https://github.com/user-attachments/assets/a749f470-9a86-4b45-9211-73852f1de54e" />
+
+
 ---
 
 ## 📦 Installation
